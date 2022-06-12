@@ -47,8 +47,8 @@
                                 </capacities>
                                 <power>10</power>
                                 <cooldownTime>0.10</cooldownTime>
-                                <armorPenetrationBlunt>550</armorPenetrationBlunt>
-                                <armorPenetrationSharp>550</armorPenetrationSharp>
+                                <armorPenetrationBlunt>5</armorPenetrationBlunt>
+                                <armorPenetrationSharp>5</armorPenetrationSharp>
                                 <linkedBodyPartsGroup>Mouth</linkedBodyPartsGroup>
                                 <chanceFactor>0</chanceFactor>
                             </li>
